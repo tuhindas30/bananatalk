@@ -27,7 +27,7 @@
 Download the .zip file from Github or run the below command to clone the repo locally.
 
 ```bash
-git clone https://github.com/tuhindas30/Banana-Translator.git
+https://github.com/tuhindas30/bananatalk.git
 ```
 
 It's plain HTML, CSS & Javascript, no build is required. Directly serve the index.html in any web server.
